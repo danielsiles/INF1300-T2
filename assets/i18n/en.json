@@ -1,0 +1,14 @@
+{
+  "password": "Password",
+  "login": "Login",
+  "register": "Register",
+  "placeRegister": "Register as a Restaurant",
+  "name": "Name",
+  "username": "Username",
+  "alreadyAccount": "Are you registered?",
+  "search": "Search",
+  "type": "Type",
+  "likes": "likes",
+  "seeLocation": "See location",
+  "typeAMessage": "Type a message"
+}

@@ -1,0 +1,14 @@
+{
+  "password": "Senha",
+  "login": "Entrar",
+  "register": "Cadastrar",
+  "placeRegister": "Cadastre-se como um restaurante",
+  "name": "Nome",
+  "username": "Nome de usuario",
+  "alreadyAccount": "Já é cadastrado?",
+  "search": "Buscar",
+  "type": "Tipo",
+  "likes": "curtidas",
+  "seeLocation": "Ver localização",
+  "typeAMessage": "Escreva uma mensagem"
+}
